@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843585818094",
+    "project_id": "add-task-bb426",
+    "storage_bucket": "add-task-bb426.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843585818094:android:3246514ca1f56a3ad912ff",
+        "android_client_info": {
+          "package_name": "com.example.add_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAdBXqpZrvn4FdBHht2zP0hO021GiH4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
